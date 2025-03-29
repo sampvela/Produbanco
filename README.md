@@ -13,4 +13,3 @@ Clasificación de clientes en distintos niveles de riesgo usando un score de rie
 
 Análisis de correlaciones y comportamiento de los malos clientes.
 
-Recomendaciones para redefinir políticas de crédito, tasas de interés y documentación requerida según el perfil de riesgo.
